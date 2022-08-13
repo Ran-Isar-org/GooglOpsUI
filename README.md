@@ -4,8 +4,7 @@
 This repo made for Matala1 of our the Web Dev Course 1
 
 <br>
+<img src="screenshot.jpg" alt="drawing" width="450"/>
 
-![GoogleOps](/screenshot.jpg)
-___
 
-## Yes, We Know..
+### Yes, We Know.
