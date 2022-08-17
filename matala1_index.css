@@ -36,10 +36,8 @@
 }
 
 .my-footer{
-    position: relative;
-    bottom: -70px;
-    clear:both;
-
+    position: absolute;
+    bottom: 0%;
 }
 
 .buttonss{
