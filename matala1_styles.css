@@ -3,7 +3,7 @@
 }
 
 .bi-head {
-    font-size: 180%;
+    font-size: 140%;
     margin: 8px;
 }
 
@@ -33,4 +33,35 @@
         #07b39b,
         #6fba82
       );
+}
+
+.footer-links a {
+    color: #acbbc1;
+    text-decoration: none;
+}
+
+.footer-text{
+    padding-right: 15px;
+    text-align: center;
+}
+.footer-text:hover{
+    color: rgb(255, 255, 255);
+    background: linear-gradient(
+      60deg,
+      #ef4e7b,
+      #a166ab,
+      #5073b8,
+      #1098ad,
+      #f79533,
+      #f37055,
+      #07b39b,
+      #6fba82
+    );
+    border-radius: 10%;
+    font-weight: bold;
+}
+
+.my-footer{
+    position: absolute;
+    bottom: 0%;
 }

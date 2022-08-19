@@ -1,5 +1,23 @@
 .img-thumbnail{
     border-radius: 1px;
-    width: 124px;
-    height: 38px;
+    width: 130px;
+    height: 45px;
+}
+
+.me-2{
+    font-size: 14px;
+    border-color: black;
+}
+
+.to-left-result{
+    padding-left: 10px;
+}
+
+.cat-result{
+    font-size: 14px;
+}
+
+.acc-btn-result{
+    padding: 8px;
+    font-size: 14px;
 }
