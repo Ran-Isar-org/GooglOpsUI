@@ -19,5 +19,21 @@
 
 .acc-btn-result{
     padding: 8px;
-    font-size: 14px;
+    font-size: 13px;
+}
+
+.acc-btn{
+    font-size: 13px;
+}
+
+.btn-entry{
+    font-size: 20px;
+    padding: 0px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.acc-outer {
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
