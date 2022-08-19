@@ -1,7 +1,7 @@
 .img-thumbnail{
     border-radius: 1px;
-    width: 130px;
-    height: 45px;
+    width: 140px;
+    height: 50px;
 }
 
 .me-2{
@@ -36,4 +36,95 @@
 .acc-outer {
     padding-top: 30px;
     padding-bottom: 30px;
+}
+
+.search {
+    margin: 0px;
+    border: none;
+    padding: 0.3em 2.5em;
+    outline: none;
+    color: white;
+    font-style: 1.2em;
+    position: relative;
+    z-index: 1;
+    cursor: pointer;
+    background: none;
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.45);
+  }
+  
+  .search:before,
+  .search:after {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 10em;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    width: 80%;
+    height: 80%;
+    content: "";
+    z-index: -2;
+    background-size: 300% 300%;
+    background: linear-gradient(
+      60deg,
+      #f37055,
+      #ad812faf,
+      rgb(215, 213, 64)
+    );
+  }
+  
+  .search:before {
+    -webkit-filter: blur(1px);
+    filter: blur(20px);
+    -webkit-transition: all 0.25s ease;
+    transition: all 0.25s ease;
+    -webkit-animation: pulse 10s infinite ease;
+    animation: pulse 10s infinite ease;
+  }
+  
+  .search:after {
+    -webkit-filter: blur(0.3px);
+    filter: blur(0.3px);
+  }
+  
+  .search:hover:before {
+    width: 115%;
+    height: 115%;
+  }
+
+  #typing {
+
+    width: 0ch;
+    color: white;
+    float: left;
+    font-weight:bold;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: typing 2s steps(12) 1s infinite alternate;
+}
+
+#typing span{
+color:rgb(0, 0, 0);}
+
+#crow {
+    float: left;
+
+    color: white;
+    animation: crow 0s linear 0s infinite;
+}
+@keyframes typing {
+    from {
+        width: 0ch;
+    }
+    to {
+        width: 25ch;
+    }
+}
+@keyframes crow {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
 }

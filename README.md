@@ -1,11 +1,16 @@
 # GooglOps UI for Matala1
-### In this Search Engine you can search any Buzz word that ends with 'Ops'
-<br>
-This repo made for Matala1 of our the Web Dev Course 1
+<u>**Course:**</u> Intro for web development **(lecturer: Effi Profus)** - Matala 1  
+<u>**Made By:**</u>  
+Ran Nahmany (רן נחמני) / ID: 209137421  
+Isar Nasimov (איסר נסימוב) / ID: 206960379
+
+<u>**Project Desciption:**</u> In this Search Engine you can search any Buzz word that ends with 'Ops'
+___
+
+
+### **What's in it?**
+1.  Search engine Home-page (html+css)
+2.  Search results page (html+css)
 
 <br>
-<img src="screenshot.jpg" alt="drawing" width="450"/>
-
-
-### Yes, We Know.
-
+<img src="screenshot.jpg" alt="drawing" width="450"/> 
