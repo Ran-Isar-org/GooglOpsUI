@@ -14,8 +14,8 @@ ___
 
 ___
 
-**GooglOps Home Page**
-<img src="screenshot1.jpg" alt="drawing" width="450"/> 
-**GooglOps Reuslts page**
-<img src="screenshot2.jpg" alt="drawing" width="600"/>
+**GooglOps Home Page**  
+<img src="screenshot1.jpg" alt="drawing" width="450"/>
 
+**GooglOps Reuslts page**  
+<img src="screenshot2.jpg" alt="drawing" width="600"/>
