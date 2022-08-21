@@ -12,5 +12,10 @@ ___
 1.  Search engine Home-page (html+css)
 2.  Search results page (html+css)
 
-<br>
-<img src="screenshot.jpg" alt="drawing" width="450"/> 
+___
+
+**GooglOps Home Page**
+<img src="screenshot1.jpg" alt="drawing" width="450"/> 
+**GooglOps Reuslts page**
+<img src="screenshot2.jpg" alt="drawing" width="600"/>
+
